@@ -1,3 +1,5 @@
+Welcome to Cascadia
+
 Ensuring the safety and security of our users is a top priority. We are committed to providing a reliable and secure platform for our users to interact with. In this section, we will outline the various measures we have taken to ensure the highest level of security for our users.
 
 Regular Audits
